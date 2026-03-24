@@ -16,7 +16,7 @@ const CONFIG = {
   },
   openrouter: {
     apiKey: process.env.OPENROUTER_API_KEY,
-    model: "google/gemini-flash-1.5-8b",
+    model: "google/gemini-2.0-flash-lite:free",
   },
   google: {
     spreadsheetId: "1RH2QfwJcpmb3DdroD4aOjUf4CShw_JTuhOlX32wIKLs",
