@@ -1,0 +1,20 @@
+{
+  "name": "phuket-dance-academy-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp booking bot for Phuket Dance Academy",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^140.0.0",
+    "luxon": "^3.4.4",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
