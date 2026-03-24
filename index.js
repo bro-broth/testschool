@@ -16,7 +16,7 @@ const CONFIG = {
   },
   openrouter: {
     apiKey: process.env.OPENROUTER_API_KEY,
-    model: "anthropic/claude-haiku-3",
+    model: "google/gemini-flash-1.5",
   },
   google: {
     spreadsheetId: "1RH2QfwJcpmb3DdroD4aOjUf4CShw_JTuhOlX32wIKLs",
